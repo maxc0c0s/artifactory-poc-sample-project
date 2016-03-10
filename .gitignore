@@ -1,0 +1,3 @@
+dist/*
+sample.egg-info/*
+.tox/*
